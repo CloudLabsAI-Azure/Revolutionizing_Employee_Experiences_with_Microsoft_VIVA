@@ -1,4 +1,4 @@
-# Day 01: Shape Culture and Foster Connections with Viva Connections and Viva Engage
+# Day 02: Shape Culture and Foster Connections with Viva Connections and Viva Engage
 
 ### Estimated Duration: 60 minutes
 
