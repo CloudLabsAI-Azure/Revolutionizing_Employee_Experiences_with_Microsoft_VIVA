@@ -58,5 +58,3 @@ In this lab, you have completed the following tasks:
 - Assigned and tracked learning content
 
 ### You have successfully completed the lab. Click on **Next >>** to proceed with the next Lab.
-
-![](./media/)

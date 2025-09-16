@@ -1,4 +1,4 @@
-# Day 03: Bring Together Relevant Content, Conversations, and Expertise with Viva Topics
+# Day 04: Bring Together Relevant Content, Conversations, and Expertise with Viva Topics
 
 ### Estimated Duration: 60 minutes
 
@@ -18,5 +18,3 @@ In this lab, you have completed the following tasks:
 - 
 
 ### You have successfully completed the lab. Click on **Next >>** to proceed with the next Lab.
-
-![](./media/)

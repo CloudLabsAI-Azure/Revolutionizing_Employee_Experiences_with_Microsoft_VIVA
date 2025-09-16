@@ -119,5 +119,3 @@ In this lab, you have completed the following tasks:
 - Configured Manager Insights for a Team
 
 ### You have successfully completed the lab. Click on **Next >>** to proceed with the next Lab.
-
-![](./media/)

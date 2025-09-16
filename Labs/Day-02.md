@@ -169,5 +169,3 @@ In this lab, you have completed the following tasks:
 - Configured Viva Engage features
 
 ### You have successfully completed the lab. Click on **Next >>** to proceed with the next Lab.
-
-![](./media/)
