@@ -15,6 +15,8 @@ In this lab, you will perform the following:
   
 ## Task 1: Create and launch a Viva Connections dashboard and feed
 
+In this task, you will create and customize a Viva Connections dashboard with cards and configure the feed to surface news and updates inside Teams.
+
 1. Open the Microsoft 365 admin center in your browser. From the left navigation menu, select **Show all (1)**, then select **SharePoint (2)**. This will open a new browser window with the **SharePoint admin center**.
 
     ![](./media/sp-09.png)
@@ -86,6 +88,8 @@ In this lab, you will perform the following:
 
 ## Task 2: Create and manage a Viva Engage community
 
+In this task, you will set up a Viva Engage community, define its settings, and encourage collaboration with posts and resources.
+
 1. Navigate to **Microsoft 365 admin center**, select the **App launcher (1)**, and select **Engage (2)** from the options.
 
     ![](./media/sp-27.png)
@@ -109,6 +113,8 @@ In this lab, you will perform the following:
 
 ## Task 3: Test Viva Engage conversations in Teams
 
+In this task, you will integrate Viva Engage with Teams and test how conversations, mentions, and file sharing flow across both platforms.
+
 1. Open **Microsoft Teams**.
 
 2. From the left bar, click **Apps (1)**, search for **Viva Engage (2)** and add it, if not added. Pin Viva Engage to your Teams navigation for easy access.
@@ -130,6 +136,8 @@ In this lab, you will perform the following:
 7. Ask participants to reply — observe how the conversation flows naturally between Teams and Viva Engage web.
 
 ## Task 4: Configure Viva Engage features
+
+In this task, you will enable and adjust Viva Engage features such as storylines, leadership corner, and notification settings to enhance engagement.
 
 1. In **Viva Engage app**, explore the following features:  
   

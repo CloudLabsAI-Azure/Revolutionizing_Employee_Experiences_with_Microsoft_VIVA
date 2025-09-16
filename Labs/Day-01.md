@@ -14,6 +14,8 @@ In this lab, you will perform the following:
   
 ## Task 1: Configure a wellbeing plan in Viva Insights
 
+In this task, you will set up a personal wellbeing plan in Viva Insights to build habits such as regular breaks, mindfulness, and quiet time.
+
 1. Open Microsoft Teams and click on the **Apps** button (bottom-left sidebar).  
 
     ![](./media/sp-01.png)
@@ -50,6 +52,8 @@ In this lab, you will perform the following:
 
 
 ## Task 2: Explore Viva Insights in Teams
+
+In this task, you will explore the Viva Insights app in Teams to review focus time, meeting effectiveness, and productivity recommendations.
 
 1. Open the **Viva Insights app** again from Teams.  
 
@@ -88,6 +92,8 @@ In this lab, you will perform the following:
     - Take a moment to click on each recommendation and note how Viva helps you take immediate action (e.g., reschedule or shorten a meeting). 
 
 ## Task 3: Configure Manager Insights for a Team
+
+In this task, you will configure and access Manager Insights to analyze collaboration patterns, after-hours work, and team wellbeing trends.
 
 - If you are logged in with manager permissions:  
   - Navigate to the **Manager view** in Viva Insights.  

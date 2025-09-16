@@ -13,6 +13,8 @@ In this lab, you will perform the following:
   
 ## Task 1: Explore Viva Learning catalog
 
+In this task, you will explore the Viva Learning catalog to discover, search, and filter learning content from different providers.
+
 1. Navigate to Teams app. Open the **Viva Learning** app.
 
     ![](./media/sp-38.png)
@@ -38,6 +40,8 @@ In this lab, you will perform the following:
 9. Go to **My Learning** → check completed or in-progress courses.
 
 ## Task 2: Assign and track learning content
+
+In this task, you will assign learning resources to users or groups and track assigned and completed courses within Viva Learning.
 
 1. As a manager, assign a course to your team.  
 
