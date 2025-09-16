@@ -1,0 +1,26 @@
+[ {
+  "Name": "Revolutionize Employee Experiences with Microsoft VIVA",
+  "Language": "English",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Revolutionizing_Employee_Experiences_with_Microsoft_VIVA/main/Labs/Getting-started.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Revolutionizing_Employee_Experiences_with_Microsoft_VIVA/main/Labs/Day-01.md",
+      "Order": 2
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Revolutionizing_Employee_Experiences_with_Microsoft_VIVA/main/Labs/Day-02.md",
+      "Order": 3
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Revolutionizing_Employee_Experiences_with_Microsoft_VIVA/main/Labs/Day-03.md",
+      "Order": 4
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Revolutionizing_Employee_Experiences_with_Microsoft_VIVA/main/Labs/Day-04.md",
+      "Order": 5
+    }
+  ]
+} ]
